@@ -9,5 +9,5 @@ public class Middle_of_LL {
             fast =fast.next.next;
         }
         return slow;
-    }
+    }Keep Multiplying Found Values by Two
 }
